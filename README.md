@@ -12,6 +12,12 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 <p align="center">
       ⚡Random ID Cloning Commands
 
+
+#### Screenshots:
+
+<p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/main/Screenshot_2023-06-26-18-45-46-478_com.termux.jpg">
+
+
 #### Tools Languages :
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
