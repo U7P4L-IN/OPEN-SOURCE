@@ -10,7 +10,7 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 ![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
 
-### INBOX ME FOR ZIP PASSWORD 
+### FOLLOW AND INBOX ME FOR ZIP PASSWORD 
 <p align="center">  <a href="https://t.me/AN0NYM0U5_X"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
 
