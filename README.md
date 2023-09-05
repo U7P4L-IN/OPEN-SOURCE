@@ -23,11 +23,12 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/main/Screenshot_2023-06-26-18-45-46-478_com.termux.jpg">
-
-
+<p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/main/GridArt_20230905_171054807.jpg">
+  
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  
+ ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## Thanks For Visiting 🧡🧡
