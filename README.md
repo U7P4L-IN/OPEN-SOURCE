@@ -16,6 +16,16 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 - LANGUAGE : PYTHON.
 - TARMINAL : TERMUX.
 
+##  CLONING SCRIPT FOLDER
+- 3 SCRIPT 
+- LANGUAGE : PYTHON.
+- TARMINAL : TERMUX.
+
+##  MY GIFT SCRIPT  FOLDER
+- 5 SCRIPT FILE 
+- ALL IS WORKING SCRIPT 
+- LANGUAGE : PYTHON.
+- TARMINAL : TERMUX
 
 ![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
 
