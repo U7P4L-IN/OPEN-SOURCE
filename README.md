@@ -8,6 +8,15 @@ AUTHOR:
 <p align="center">
 U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
 
+## Features -
+
+##  CLONING SCRIPT ZIP FILE 
+- 7 ZIP FILE 
+- 400+ WORKING SCRIPT 
+- LANGUAGE : PYTHON.
+- TARMINAL : TERMUX.
+
+
 ![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
 
 ### FOLLOW AND INBOX ME FOR ZIP PASSWORD 
