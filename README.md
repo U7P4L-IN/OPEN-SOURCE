@@ -29,7 +29,7 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 <h5 align="center"><b>ZIP PASSWORD</b></h5>
 
-> [ZIP NAME : GIFT BOX/GIFT BOX 2]  
+> ZIP NAME   : GIFT BOX/GIFT BOX 2 
 > PASSWORD  : CYBER_XD
 
 
