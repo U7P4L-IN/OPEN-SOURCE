@@ -29,8 +29,8 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 <h5 align="center"><b>ZIP PASSWORD</b></h5>
 
-> [ZIP NAME   : GIFT BOX/GIFT BOX 2]
-> PASSWORD  : CYBER_XD
+>[ZIP NAME : GIFT BOX/GIFT BOX 2]
+>PASSWORD  : CYBER_XD
 
 
 ![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
