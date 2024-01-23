@@ -44,13 +44,21 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/U7P4L-IN/OPEN-SOURCE" /><img alt="" src="https://img.shields.io/github/repo-size/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Issues" src="https://img.shields.io/github/issues/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/U7P4L-IN/OPEN-SOURCE" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/U7P4L-IN/OPEN-SOURCE" />
 
-#### Screenshots:
+## Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/master/image/RANDOM.png"> 
-  
-#### Tools Languages :
+<p align="center"><img src=" https://github.com/U7P4L-IN/OPEN-SOURCE/blob/master/image/ENC.png">
+
+## Tools Languages :
 <p align="center">
   
  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## Thanks For Visiting 🧡🧡
+<h5 align="center"><b>DESCRIPTION</b></h5>
+
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
