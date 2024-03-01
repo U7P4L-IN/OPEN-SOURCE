@@ -2,11 +2,21 @@
   
 ![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
 
-## 500+ WORKING SCRIPT UPLOADED ON THIS REPOSITORY 🎯
 
-AUTHOR:
-<p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
+</p>
+   <p align="center">
+      <a href="https://github.com/U7P4L-IN/OPEN-SOURCE/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/OPEN-SOURCE?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/U7P4L-IN/OPEN-SOURCE/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/OPEN-SOURCE?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
+      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/U7P4L-IN/OPEN-SOURCE/actions/workflows/github-action.yml">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+   </p>
+
+
+## 500+ WORKING SCRIPT UPLOADED ON THIS REPOSITORY 🎯
 
 ## Features -
 
@@ -46,9 +56,11 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 ## Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/master/image/RANDOM.png">
+<p align="center"><img src="./image/photo_2024-03-01_21-59-27.jpg">
+
+<p align="center"><img src="./image/image/RANDOM.png">
   
-<p align="center"><img src="https://github.com/U7P4L-IN/OPEN-SOURCE/blob/master/image/ENC.png">
+<p align="center"><img src="./image/ENC.png">
 
 ## Tools Languages :
 <p align="center">
