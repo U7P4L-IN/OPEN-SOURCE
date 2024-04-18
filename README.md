@@ -1,7 +1,4 @@
-<p align="center">
-  
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-
+<p align="center"><img src="./image/github-header-image.png">
 
 </p>
    <p align="center">
@@ -42,30 +39,36 @@
 > [ZIP NAME : GIFT BOX/GIFT BOX 2]  
 > PASSWORD: CYBER_XD
 
-![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif" width="100%"/>
+</p>
 
-### FOLLOW AND INBOX ME FOR ZIP PASSWORD 
+### FOLLOW AND INBOX ME FOR ZIP PASSWORD >
 <p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p> 
-  
-![your_text (2)](https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif)
 
-<p align="center">
-
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/U7P4L-IN/OPEN-SOURCE" /><img alt="" src="https://img.shields.io/github/repo-size/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Issues" src="https://img.shields.io/github/issues/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/U7P4L-IN/OPEN-SOURCE" />
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/U7P4L-IN/OPEN-SOURCE" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/U7P4L-IN/OPEN-SOURCE" />
+<p align="center"><img src="https://user-images.githubusercontent.com/20098740/178893676-7c80941a-fcb6-42b8-a6b1-9b2f540779eb.gif" width="100%"/>
+</p>
 
 ## Screenshots:
 
 <p align="center"><img src="./image/photo_2024-03-01_21-59-27.jpg">
-
-<p align="center"><img src="./image/image/RANDOM.png">
-  
+<p align="center"><img src="./image/RANDOM.png">
 <p align="center"><img src="./image/ENC.png">
 
 ## Tools Languages :
 <p align="center">
-  
- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=OPEN-SOURCE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+</p>
+
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+![NOTEAFTERCLONETHI (1)](https://user-images.githubusercontent.com/20098740/178380242-6fa57f33-d3a5-4ea5-ba92-8469d3b47682.gif)
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+
+![WECANTHELPFORYOU](https://user-images.githubusercontent.com/20098740/178375504-1cb2b753-79d6-483c-b34e-556c1043a3aa.gif)
+
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
@@ -75,3 +78,7 @@
 # Give A Star ⭐
 
 > You can also give this repository a star to show more people and they can use this repository
+
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+![THANKSCHEERSANDE](https://user-images.githubusercontent.com/20098740/178380759-cba8cee3-8a86-408d-9924-5bcf9ec17375.gif)
+![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
